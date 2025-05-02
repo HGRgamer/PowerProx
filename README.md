@@ -90,3 +90,8 @@ You can edit this file manually or through the settings UI.
   <img src="https://github.com/user-attachments/assets/d32ed8ed-c772-4209-a169-c6f44de1cf29">  
 
 ---
+
+## Credits
+- <img src="https://raw.githubusercontent.com/HGRgamer/PowerProx/refs/heads/main/proxyicon.ico" width="16" height="16"> [Proxy icon](https://www.flaticon.com/free-icons/proxy) created by [Uniconlabs](https://www.flaticon.com/authors/uniconlabs) - Flaticon  
+- <img src="https://raw.githubusercontent.com/HGRgamer/PowerProx/refs/heads/main/proxy_on.ico" width="16" height="16"> [On icon](https://www.flaticon.com/free-icons/on) created by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) - Flaticon
+- <img src="https://raw.githubusercontent.com/HGRgamer/PowerProx/refs/heads/main/proxy_off.ico" width="16" height="16"> [Off icon](https://www.flaticon.com/free-icons/off) created by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) - Flaticon
