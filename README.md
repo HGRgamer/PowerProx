@@ -1,6 +1,7 @@
 # PowerProx
+Tired of constantly logging in to your college proxy and switching it on/off every so often?
 
-**PowerProx** is a lightweight Windows system tray utility built with PowerShell that lets you easily toggle proxy settings, auto-login to proxy servers, and manage proxy credentials. It’s especially useful for environments where proxies require periodic authentication or LDAP-based login.
+**PowerProx** is here. It's a lightweight Windows system tray utility built with PowerShell that lets you easily toggle proxy settings, auto-login to proxy servers, and manage proxy credentials. It’s especially useful for environments where proxies require periodic authentication or LDAP-based login.
 
 Download and Get It Running in Sec's Using The Installer: https://github.com/HGRgamer/PowerProx/releases/latest
 
